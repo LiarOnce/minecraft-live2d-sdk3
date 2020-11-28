@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "minecraft-moc.moc3",
+		"Textures": [
+			"minecraft-moc.2048/texture_00.png"
+		],
+		"DisplayInfo": "minecraft-moc.cdi3.json"
+	}
+}
