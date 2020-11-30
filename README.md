@@ -1,6 +1,8 @@
 # minecraft-live2d-sdk3
 Minecraft Live2D model.(Convert moc to moc3) Model from Steam Workshop of FaceRig.
 
+Original project file is `minecraft.cmox`.
+
 ## Issues
 
 ~~Since I don’t have the original project file, I converted moc to moc3 in some special ways.~~
