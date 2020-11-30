@@ -3,9 +3,9 @@ Minecraft Live2D model.(Convert moc to moc3) Model from Steam Workshop of FaceRi
 
 ## Issues
 
-Since I don’t have the original project file, I converted moc to moc3 in some special ways.
+~~Since I don’t have the original project file, I converted moc to moc3 in some special ways.~~
 
-But from some actions, there are still problems.
+Now with the author’s consent, I got the original project file, but the issue still exists.
 
 SDK 2.0 (Original):
 
