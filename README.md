@@ -24,4 +24,4 @@ PrprLive (Original):
 ## Credit
 Author: https://twitter.com/Ganeesya
 
-moc3 Convert: Ulysses (wdwxy12345@gmail.com) using Lincubator
+moc3 Convert: [Ulysses](mailto:wdwxy12345@gmail.com) using Lincubator
