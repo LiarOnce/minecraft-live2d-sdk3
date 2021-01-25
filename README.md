@@ -22,6 +22,6 @@ PrprLive (Original):
 ![](https://i.loli.net/2020/11/30/Dkfzl4YhTUyt2E3.gif)
 
 ## Credit
-Author: https://twitter.com/Ganeesya
+Author: [Ganeesya](https://twitter.com/Ganeesya)
 
 moc3 Convert: [Ulysses](mailto:wdwxy12345@gmail.com) using Lincubator
