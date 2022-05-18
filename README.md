@@ -3,6 +3,8 @@ Minecraft Live2D model.(Convert moc to moc3) Model from Steam Workshop of FaceRi
 
 Original project file is `minecraft.cmox`.
 
+Alternative: [https://www.bilibili.com/video/BV1hq4y1u7Jq](https://www.bilibili.com/video/BV1hq4y1u7Jq)
+
 ## Issues
 
 ~~Since I don’t have the original project file, I converted moc to moc3 in some special ways.~~
